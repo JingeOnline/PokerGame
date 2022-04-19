@@ -51,7 +51,7 @@ namespace PokerGame
                     Num = 0;
                     SuitType = 0;
                     Suit = "Joker";
-                    Display = "👩";
+                    Display = "小王";
                 }
                 else
                 {
@@ -59,7 +59,7 @@ namespace PokerGame
                     Num = 1;
                     SuitType = 0;
                     Suit = "Joker";
-                    Display = "👨";
+                    Display = "大王";
                 }
             }
             
